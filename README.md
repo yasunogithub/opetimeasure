@@ -1,1 +1,3 @@
-# dronDispChart
+# OpeTiMeasure
+〜工事中です〜
+Android使用時間計測アプリ．Androidのディスプレイがついている時間を監視するプログラム．今後はチャートにしてサマリーを出す機能を検討中．
